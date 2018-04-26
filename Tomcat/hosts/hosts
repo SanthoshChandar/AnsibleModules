@@ -1,2 +1,2 @@
 [tomcat-servers]
-52.165.172.174
+52.165.172.174 ansible_user=pocuser
